@@ -1,0 +1,41 @@
+ [
+ {
+        "_id" : "63198a67c80d0814d0b3d2e0",
+        "username" : "student_one",
+        "firstName" : "Villy",
+        "lastName" : "Santos",
+        "email" : "s.villy75@gmail.com",
+        "password" : "12345678",
+        "mobileNumber" : "09277378946",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "enrollment_id" : "1",
+                "course_id" : "1",
+                "courseName" : "Javascript",
+                "isPaid" : true,
+                "dateEnrolled" : "10/1/2022"
+            }
+        ]
+    },
+
+  {
+        "_id" : "63198ae2c80d0814d0b3d308",
+        "username" : "student_two",
+        "firstName" : "Paul",
+        "lastName" : "Santos",
+        "email" : "s.paul75@gmail.com",
+        "password" : "12345678",
+        "mobileNumber" : "09277378946",
+        "isAdmin" : false,
+        "enrollments" : [ 
+            {
+                "enrollment_id" : "2",
+                "course_id" : "2",
+                "courseName" : "Photoshop",
+                "isPaid" : true,
+                "dateEnrolled" : "10/1/2022"
+            }
+        ]
+    }
+]

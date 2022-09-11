@@ -1,0 +1,42 @@
+[
+{
+        "_id" : "63198bf3c80d0814d0b3d33f",
+        "name" : "Javascript",
+        "description" : "Programming Language",
+        "price" : 3500,
+        "slots" : 10,
+        "schedule" : "11:00am - 14:00pm",
+        "instructor" : "Caith",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "enrollee_id" : 1,
+                "userId" : "63198a67c80d0814d0b3d2e0",
+                "userName" : "student_one",
+                "isPaid" : true,
+                "dateEnrolled" : "2022/10/1"
+            }
+        ]
+    },
+
+
+    {
+        "_id" : "63198c4dc80d0814d0b3d34f",
+        "name" : "Photoshop",
+        "description" : "Photo Editing and Graphic Design",
+        "price" : 5500,
+        "slots" : 10,
+        "schedule" : "14:00am - 16:00pm",
+        "instructor" : "Andy",
+        "isActive" : true,
+        "enrollees" : [ 
+            {
+                "enrollee_id" : 2,
+                "userId" : "63198ae2c80d0814d0b3d308",
+                "userName" : "student_two",
+                "isPaid" : true,
+                "dateEnrolled" : "2022/10/1"
+            }
+        ]
+    }
+]
